@@ -1,9 +1,3 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Part 1: https://youtu.be/aKYlikFAV4k
-// Part 2: https://youtu.be/EaZxUCWAjb0
-// Part 3: https://youtu.be/jwRT4PCT6RU
 
 // 2 options for drawing the walls
 // option 0 = corn maze
